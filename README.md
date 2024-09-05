@@ -8,8 +8,7 @@
 
 - *Github Repository SSH**
 
-まだ設定されていません
-
+[](https://github.com/mardoodmuh/School-System)
 - *編集者の名前**
 
 モハンマド
